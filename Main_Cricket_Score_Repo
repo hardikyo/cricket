@@ -1,5 +1,6 @@
 {
   "load_url": "2",
+  "open_chrome_custom_tab": "true",
   "url_one": "https://stackoverflow.com/",
   "url_two": "https://allinoneott.blogspot.com/",
   "url_three": "https://www.online-convert.com/",
